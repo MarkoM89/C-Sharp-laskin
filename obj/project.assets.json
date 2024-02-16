@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\C# laskin\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\C sharp laskin\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\C# laskin\\C#.csproj",
+      "projectPath": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\C sharp laskin\\C#.csproj",
       "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\C# laskin\\obj\\",
+      "outputPath": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\C sharp laskin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config"
