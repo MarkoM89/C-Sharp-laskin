@@ -1,45 +1,60 @@
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\bin\Debug\net6.0\C#.exe
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\bin\Debug\net6.0\C#.deps.json
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\bin\Debug\net6.0\C#.runtimeconfig.json
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\bin\Debug\net6.0\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\bin\Debug\net6.0\C#.pdb
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\refint\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\C#.pdb
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C#\obj\Debug\net6.0\ref\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\bin\Debug\net6.0\C#.exe
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\bin\Debug\net6.0\C#.deps.json
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\bin\Debug\net6.0\C#.runtimeconfig.json
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\bin\Debug\net6.0\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\bin\Debug\net6.0\C#.pdb
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\C#.AssemblyInfo.cs
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\refint\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\C#.pdb
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\C#.genruntimeconfig.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C# laskin\obj\Debug\net6.0\ref\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\bin\Debug\net6.0\C#.exe
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\bin\Debug\net6.0\C#.deps.json
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\bin\Debug\net6.0\C#.runtimeconfig.json
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\bin\Debug\net6.0\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\bin\Debug\net6.0\C#.pdb
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\C#.AssemblyInfo.cs
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\refint\C#.dll
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\C#.pdb
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\C#.genruntimeconfig.cache
-C:\Users\Marko\Desktop\metropolia koulu\Työharjoittelu\Projektit\C sharp laskin\obj\Debug\net6.0\ref\C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/bin/Debug/net6.0/C#.exe
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/bin/Debug/net6.0/C#.deps.json
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/bin/Debug/net6.0/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/bin/Debug/net6.0/C#.pdb
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/refint/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/C#.pdb
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C#/obj/Debug/net6.0/ref/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/bin/Debug/net6.0/C#.exe
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/bin/Debug/net6.0/C#.deps.json
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/bin/Debug/net6.0/C#.runtimeconfig.json
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/bin/Debug/net6.0/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/bin/Debug/net6.0/C#.pdb
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/C#.AssemblyInfo.cs
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/refint/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/C#.pdb
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/C#.genruntimeconfig.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C# laskin/obj/Debug/net6.0/ref/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/bin/Debug/net6.0/C#.exe
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/bin/Debug/net6.0/C#.deps.json
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/bin/Debug/net6.0/C#.runtimeconfig.json
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/bin/Debug/net6.0/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/bin/Debug/net6.0/C#.pdb
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/C#.AssemblyInfo.cs
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/refint/C#.dll
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/C#.pdb
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/C#.genruntimeconfig.cache
+C:/Users/Marko/Desktop/metropolia koulu/Työharjoittelu/Projektit/C sharp laskin/obj/Debug/net6.0/ref/C#.dll
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/bin/Debug/net6.0/C#
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/bin/Debug/net6.0/C#.deps.json
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/bin/Debug/net6.0/C#.runtimeconfig.json
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/bin/Debug/net6.0/C#.dll
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/bin/Debug/net6.0/C#.pdb
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/C#.dll
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/refint/C#.dll
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/C#.pdb
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/media/marko/00B426F1B426E8BC/Tietokone projektit/C-Sharp-laskin/obj/Debug/net6.0/ref/C#.dll
